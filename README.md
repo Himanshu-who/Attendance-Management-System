@@ -7,7 +7,7 @@ A simple and professional **web-based Attendance Management System** for managin
 The project is hosted using **Amazon S3 Static Website Hosting**.
 
 **Live Website:**  
-https://student-bucket-740631383426-ap-south-1-an.s3-website.ap-south-1.amazonaws.com/
+http://student-bucket-740631383426-ap-south-1-an.s3-website.ap-south-1.amazonaws.com
 
 ## 📌 Project Description
 
